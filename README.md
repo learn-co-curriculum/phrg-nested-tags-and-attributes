@@ -61,6 +61,10 @@ Both `<id>` and `<class>` attributes are often used for styling purposes since t
 	<p class='other_paragraphs'>This element also belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
 ```
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-nested-tags-and-attributes/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-nested-tags-and-attributes/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 * [Nested Tags](http://www.bu.edu/tech/services/cccs/websites/www/non-wordpress/start/html-introduction/syntax/nesting-tags/)
