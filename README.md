@@ -34,8 +34,8 @@ Tags can be nested as demonstrated in the navigation snippet below.
 ```
 
 Keeping your HTML well indented so that every tag and "level" of nesting is
-aligned will make your code easier to read and maintain. Its aesthetics, how it
-looks, is conveying its structure.
+aligned will make your code easier to read and maintain. The aesthetics, i.e. how it
+looks, conveys its structure.
 
 ### HTML Attributes
 
@@ -44,7 +44,7 @@ attributes can be used to identity, classify, style or modify the default
 behavior of the element.
 
 ```html
-	<element attribute_name=attribute_value another_attribute_name=another_attribute_value></element>
+  <element attribute_name=attribute_value another_attribute_name=another_attribute_value></element>
 ```
 
 A very common use case for HTML attributes is element identification (`id`
@@ -55,10 +55,10 @@ attribute is used to group together similar elements.
 Both `<id>` and `<class>` attributes are often used for styling purposes since they allows us to find a specific element or style similar elements with a single style declaration.
 
 ```html
-	<p id='main_paragraph'>This element can be uniquely identified  using the 'main_paragraph' id HTML attribute</p>
-	
-	<p class='other_paragraphs'>This element belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
-	<p class='other_paragraphs'>This element also belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
+  <p id='main_paragraph'>This element can be uniquely identified  using the 'main_paragraph' id HTML attribute</p>
+
+  <p class='other_paragraphs'>This element belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
+  <p class='other_paragraphs'>This element also belongs to a group of elements who share the 'other_paragraphs' HTML class attribute</p>
 ```
 
 ## Does this need an update?
@@ -72,4 +72,3 @@ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-nested-
 * [More on Nesting...](http://www.iraqtimeline.com/maxdesign/basicdesign/principles/prinnest.html)
 * [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
 * [More on Attributes](https://www.tutorialspoint.com/html/html_attributes.htm)
-<p data-visibility='hidden'>PHRG Nested Tags And Attributes</p>
